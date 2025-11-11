@@ -49,7 +49,8 @@ flutter run
   - Lat: -8.2941983, Lng: 114.3072228
   - Hasil (Nominatim): Labansukadi, Labanasem, Banyuwangi, East Java, Indonesia
 
-![Hasil Lokasi](image.png)
+![WhatsApp Image 2025-11-11 at 19 17 05](https://github.com/user-attachments/assets/16ba03e8-4aa1-4244-99ee-b28524efbacc)
+
 
 ## Kesimpulan
 Penambahan validasi null-safe dan mekanisme fallback (Nominatim) meningkatkan ketahanan aplikasi terhadap kegagalan layanan geocoding. Aplikasi kini dapat tetap menyajikan informasi lokasi kepada pengguna meskipun sumber utama gagal atau mengembalikan data tidak lengkap.
